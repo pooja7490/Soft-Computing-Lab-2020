@@ -1,0 +1,25 @@
+AIM: VARIOUS PYTHON ENVIRONMENT
+
+The default installation of Python includes the Python interpreter, and its own Integrated Development Environment (IDE) called IDLE. These allow you to start programming 
+as soon as Python has been installed.
+
+1. IDLE
+Python's default installation also comes with its own IDE called IDLE. IDLE initially stood for Integrated DeveLopment Environment, but this is sometimes extended to Integrated 
+Development and Learning Environment. IDLE is intended to be a simple IDE, which is suitable for beginners learning Python. It includes common IDE features such as auto 
+completion, smart indent, syntax highlighting, debugging, etc. IDLE itself is built 100% in Python (using the tkinter GUI toolkit).
+IDLE can be launched by typing idle or idle3 (or its full path if it hasn't been added to your PATH). It can also be launched by navigating to it and double-clicking on it
+via your file system's GUI.
+
+2. VS CODE
+Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. The extension makes VS Code an excellent Python editor, and
+works on any operating system with a variety of Python interpreters. It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and
+unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments.
+
+3.SUBLIME TEXT
+Sublime Text is a commonly-used text editor used to write Python code. Sublime Text's slick user interface along with its numerous extensions for syntax highlighting,
+source file finding and analyzing code metrics make the editor more accessible to new programmers than some other applications like Vim and Emacs.
+
+4.SPYDER
+Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination
+of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection,
+and beautiful visualization capabilities of a scientific package.
